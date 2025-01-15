@@ -24,9 +24,9 @@ Before of act, aware and know something first.
 ```
 
 Yes, Iam
-| Aware | ✅ |
+- | Aware | ✅ |
 Do it by your own risk by answer to continuing finish all?
-| Accepted | ✅ |
+- | Accepted | ✅ |
 
 Now, be free, Get code to check out 
 ```code
